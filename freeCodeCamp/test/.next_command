@@ -191,3 +191,5 @@ cd website
 touch index.js
 ls --color=auto
 mv index.js client/src
+mv style.css client/src
+mv styles.css client/src
