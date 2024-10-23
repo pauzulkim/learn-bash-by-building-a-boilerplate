@@ -238,3 +238,9 @@ touch header.png
 ls --color=auto
 cd ..
 ls --color=auto
+__vsc_prompt_cmd_original
+cd ../../..
+cd workspace/project/website
+find client/assets/images
+find -name client/assets/images
+find -name images
