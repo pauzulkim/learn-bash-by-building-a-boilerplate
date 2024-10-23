@@ -266,3 +266,22 @@ ls --color=auto
 rmdir images
 ls --color=auto
 rm images/background.jpg
+rmdir images
+rmdir images
+ls --color=auto
+cd /workspace/project/website
+ls --color=auto
+rmdir images
+cd images
+ls --color=auto
+cd /workspace/project/website
+rmdir images
+ls --color=auto -a
+rm images
+cd images
+ls --color=auto
+rm header.png
+cd .
+cd ..
+ls --color=auto
+rmdir images
