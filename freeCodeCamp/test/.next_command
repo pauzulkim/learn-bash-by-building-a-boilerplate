@@ -260,3 +260,4 @@ mv footer.jpeg client/assets/images
 touch footer.jpeg
 mv images/footer.jpeg client/assets/images
 find
+rmdir images
