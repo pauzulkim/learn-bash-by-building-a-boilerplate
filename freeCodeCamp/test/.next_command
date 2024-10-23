@@ -96,3 +96,4 @@ more
 more src
 ls --color=auto
 more index.js
+cd ..
