@@ -199,3 +199,9 @@ find --help
 find -name index.html
 find -name styels.css
 find -name styles.css
+find src
+cd client/src
+find
+cd ../..
+find -name client/src
+find -name src
