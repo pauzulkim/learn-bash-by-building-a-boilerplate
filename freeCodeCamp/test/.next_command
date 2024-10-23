@@ -84,3 +84,4 @@ ls --color=auto
 more
 more README.md
 more LICENSE-MIT
+clear
