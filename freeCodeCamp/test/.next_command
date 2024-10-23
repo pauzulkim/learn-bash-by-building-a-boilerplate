@@ -305,3 +305,13 @@ rmdir fonts
 ls --color=auto
 cd ../..
 mkdir client/assets/fonts
+ls --color=auto
+cd fonts
+touch roboto-bold.woff
+la
+la
+ls --color=auto
+rm roboto-bold-woff
+cd ../..
+cd website
+touch client/assets/fonts/roboto-bold.woff
