@@ -219,3 +219,16 @@ cd ../../..
 cd client/src/images
 cd images
 ls --color=auto
+cd ../../..
+cd website
+ls --color=auto
+cd project website
+cd project/website
+mv header.png images
+ls --color=auto
+cd images
+ls --color=auto
+rm header.png
+cd ..
+touch header.png
+mv header.png
