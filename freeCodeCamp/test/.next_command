@@ -250,3 +250,4 @@ find assets/images
 find client/assets/images
 find -name images
 find -name header.png
+find -name footer.jpeg
