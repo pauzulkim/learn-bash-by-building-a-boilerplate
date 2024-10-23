@@ -293,3 +293,4 @@ ls --color=auto
 touch CodeAlly.svg
 ls --color=auto
 mv CodeAlly.svg client/assets/icons
+find
