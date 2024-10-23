@@ -87,3 +87,6 @@ more LICENSE-MIT
 clear
 ls --color=auto
 cd src
+ls --color=auto
+find
+pwd
