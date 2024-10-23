@@ -366,3 +366,4 @@ find
 cd ..
 find website-boilerplate
 clear
+echo goodbye terminal
