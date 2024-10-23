@@ -216,3 +216,5 @@ cd images
 __vsc_prompt_cmd_original
 touch background.jpg
 cd ../../..
+cd client/src/images
+cd images
