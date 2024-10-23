@@ -121,3 +121,5 @@ ls --color=auto --help
 ls --color=auto -a
 cd .
 touch background.jpg
+__vsc_prompt_cmd_original
+touch header.png
