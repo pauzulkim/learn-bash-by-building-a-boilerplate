@@ -162,3 +162,4 @@ ls --color=auto
 __vsc_prompt_cmd_original
 mv lato.font lato.ttf
 mv menlo.font menlo.otf
+ls --color=auto
