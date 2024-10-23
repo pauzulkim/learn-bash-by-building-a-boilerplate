@@ -85,3 +85,4 @@ more
 more README.md
 more LICENSE-MIT
 clear
+ls --color=auto
