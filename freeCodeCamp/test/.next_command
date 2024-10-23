@@ -90,3 +90,5 @@ cd src
 ls --color=auto
 find
 pwd
+cd has
+ls --color=auto -a
