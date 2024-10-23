@@ -251,3 +251,11 @@ find client/assets/images
 find -name images
 find -name header.png
 find -name footer.jpeg
+mv footer.jpeg client/assets/images
+mv footer.jpeg images
+ls --color=auto
+__vsc_prompt_cmd_original
+touch footer.jpeg
+mv footer.jpeg client/assets/images
+touch footer.jpeg
+mv images/footer.jpeg client/assets/images
