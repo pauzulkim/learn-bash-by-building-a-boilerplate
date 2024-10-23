@@ -357,3 +357,4 @@ cp --help
 __vsc_prompt_cmd_original
 cp -r boilerplate toms-website
 cp -r website-boilerplate toms-website
+ls --color=auto
