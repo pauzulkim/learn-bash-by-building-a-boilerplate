@@ -218,3 +218,4 @@ touch background.jpg
 cd ../../..
 cd client/src/images
 cd images
+ls --color=auto
