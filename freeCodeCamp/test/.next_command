@@ -360,3 +360,8 @@ cp -r website-boilerplate toms-website
 ls --color=auto
 find
 find toms-website
+find
+cd website-boilerplate
+find
+cd ..
+find website-boilerplate
