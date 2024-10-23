@@ -213,3 +213,5 @@ __vsc_prompt_cmd_original
 mkdir images
 __vsc_prompt_cmd_original
 cd images
+__vsc_prompt_cmd_original
+touch background.jpg
