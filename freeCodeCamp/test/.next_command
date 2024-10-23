@@ -232,3 +232,5 @@ rm header.png
 cd ..
 touch header.png
 mv header.png
+cd images
+ls --color=auto
