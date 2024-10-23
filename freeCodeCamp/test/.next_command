@@ -319,3 +319,4 @@ touch client/assets/fonts/roboto-bold.wolight-woff
 touch client/assets/fonts/roboto-bold.wolight.woff
 touch client/assets/fonts/roboto-bold.light.woff
 touch client/assets/fonts/roboto-light.woff
+find client/assets/fonts
