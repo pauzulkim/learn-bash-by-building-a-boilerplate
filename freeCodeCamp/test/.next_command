@@ -154,3 +154,4 @@ ls --color=auto
 cd ../..
 cd website
 ls --color=auto
+rm header.png
