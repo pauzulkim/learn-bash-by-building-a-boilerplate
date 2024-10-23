@@ -92,3 +92,7 @@ find
 pwd
 cd has
 ls --color=auto -a
+more
+more src
+ls --color=auto
+more index.js
