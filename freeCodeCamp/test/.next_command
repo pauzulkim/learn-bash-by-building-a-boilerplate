@@ -261,3 +261,8 @@ touch footer.jpeg
 mv images/footer.jpeg client/assets/images
 find
 rmdir images
+rm images
+ls --color=auto
+rmdir images
+ls --color=auto
+rm images/background.jpg
