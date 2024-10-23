@@ -234,3 +234,6 @@ touch header.png
 mv header.png
 cd images
 ls --color=auto
+touch header.png
+ls --color=auto
+cd ..
