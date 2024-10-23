@@ -237,3 +237,4 @@ ls --color=auto
 touch header.png
 ls --color=auto
 cd ..
+ls --color=auto
